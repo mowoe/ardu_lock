@@ -5,9 +5,9 @@
 #define RST_PIN    9
 #define SS_PIN    10
  
-const String VALID_UID = "27ef8c65";
-const String MY_PASSWORD = "1702";
-const String VALID1_UID = "f5331253";
+const String VALID_UID = "";
+const String MY_PASSWORD = "";
+const String VALID1_UID = "";
 int lo = 1;
 int co = 0;
 int ull = 3;
